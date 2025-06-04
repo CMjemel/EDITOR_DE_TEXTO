@@ -40,7 +40,7 @@ class EditorTexto {
     }
   }
 
-  // Función de Jairo - Mejorada
+  // Función (Jairo) parte
   void verPendientes() {
     print('\n Líneas pendientes por guardar (${cola.length}):');
     if (cola.isEmpty) {
