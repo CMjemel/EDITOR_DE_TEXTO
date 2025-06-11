@@ -14,4 +14,5 @@ void guardarLinea() {
     // Si la cola está vacía, informa que no hay líneas para guardar
     print(' No hay líneas pendientes para guardar.');
   }
+  
 }
