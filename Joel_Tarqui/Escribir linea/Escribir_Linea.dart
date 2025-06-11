@@ -4,6 +4,7 @@ class EditorTexto {
 
   void escribirLinea(String texto) {
     cola.addLast(texto); // Agrega la línea escrita a la cola
-    print(' Línea escrita: "$texto"'); // Muestra mensaje de confirmación
+    print('Línea escrita: "$texto"'); // Muestra mensaje de confirmación
+    // hola      
   }
 }
